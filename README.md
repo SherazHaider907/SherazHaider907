@@ -8,9 +8,8 @@ A passionate **Backend Developer** focused on building clean, scalable, and secu
 
 * 💻 Backend Developer (Django | DRF | FastAPI)
 * 🧠 Strong understanding of REST APIs & authentication
-* 🗄️ Experience with relational databases (PostgreSQL / MySQL)
+* 🗄️ Experience with relational databases
 * 🌱 Currently improving system design & performance optimization
-* 🤝 Open to internships, junior roles, and collaboration
 
 ---
 
@@ -18,28 +17,13 @@ A passionate **Backend Developer** focused on building clean, scalable, and secu
 
 **Languages**
 
-* Python, Dart (Basics), JavaScript (Basics)
+* Python
 
 **Backend Frameworks**
 
 * Django
 * Django REST Framework (DRF)
-* FastAPI (Learning)
-
-**Databases**
-
-* PostgreSQL
-* MySQL
-* SQLite
-
-**Tools & Platforms**
-
-* Git & GitHub
-* Postman
-* Docker (Basic)
-* Linux / Windows
-
----
+* FastAPI 
 
 ## 📌 What I Build
 
@@ -48,16 +32,7 @@ A passionate **Backend Developer** focused on building clean, scalable, and secu
 * CRUD-based applications
 * Backend services connected to large databases
 
----
 
-## 📈 Goals
-
-* Become a strong backend engineer
-* Master scalable API development
-* Contribute to open-source projects
-* Build production-ready applications
-
----
 
 ## 📫 Contact Me
 
