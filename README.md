@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sheraz Haider
 
-A passionate **Backend Developer** focused on building clean, scalable, and secure applications. I work mainly with **Python**, **Django**, **Django REST Framework**, and I’m actively exploring **FastAPI** and modern backend architectures.
+A passionate **Backend Developer** focused on building clean, scalable, and secure applications. I work mainly with **Python**, **Django**, **Django REST Framework**, and **FastAPI** and modern backend architectures.
 
 ---
 
@@ -22,15 +22,12 @@ A passionate **Backend Developer** focused on building clean, scalable, and secu
 **Backend Frameworks**
 
 * Django
-* Django REST Framework (DRF)
+* Django REST Framework
 * FastAPI 
 
 ## 📌 What I Build
 
-* RESTful APIs for web & mobile apps
-* Authentication & authorization systems
-* CRUD-based applications
-* Backend services connected to large databases
+I build secure and scalable backend systems
 
 
 
