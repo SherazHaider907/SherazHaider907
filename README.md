@@ -33,7 +33,7 @@ I build secure and scalable backend systems
 
 ## 📫 Contact Me
 
-* 📧 Email: [sherazhaider@gmail.com](mailto:sherazhaider665@gmail.com)
+* 📧 Email: [sherazhaider665@gmail.com](mailto:sherazhaider665@gmail.com)
 * 💼 LinkedIn: [https://www.linkedin.com/in/sheraz-haider907/](https://www.linkedin.com/in/sheraz-haider907/)
 
 ---
