@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sheraz Haider
 
-A passionate **Backend Developer** focused on building clean, scalable, and secure applications.
+A **Backend Developer** focused on building clean, scalable, and secure applications.
 
 ---
 
