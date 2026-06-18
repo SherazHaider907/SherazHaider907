@@ -54,18 +54,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [🏨 Room Booking](https://github.com/SherazHaider907/Room_Booking) | Full-stack hotel booking system with JWT auth, conflict prevention & React frontend | Django · DRF · React · Vite |
-| [⚙️ Automate Django](https://github.com/SherazHaider907/Automate_django) | Automation platform with Celery, Redis, email tracking, web scraping & CSV tools | Django · Celery · Redis |
-| [✅ Todo App](https://github.com/SherazHaider907/fastapi) | Deployed FastAPI app with Supabase PostgreSQL & Railway | FastAPI · Supabase · Railway |
-| [🛒 E-Commerce](https://github.com/SherazHaider907/Ecommerce) | Full e-commerce backend with cart, orders, reviews & admin panel | Django · Python |
-| [📊 Finance Tracker](https://github.com/SherazHaider907/Finance_Tracker) | Personal finance app with income/expense tracking & Excel export | Django · Python |
-| [📝 Blog Platform](https://github.com/SherazHaider907/Blog) | Django blog with content dashboard, categories & media uploads | Django · Python |
-
----
 
 ## 📈 GitHub Stats
 
