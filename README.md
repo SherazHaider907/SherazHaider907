@@ -54,13 +54,3 @@ I'm a backend developer focused on building scalable, production-ready RESTful A
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SherazHaider907&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherazHaider907&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-<p align="center"><i>Open to backend developer roles — feel free to explore my repos and connect!</i></p>
